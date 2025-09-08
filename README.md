@@ -6,5 +6,7 @@ My main repositories are:
 - 📝 [Notes](https://github.com/RichardYusteDAW/notes/blob/master/README.md)
 - 👫 [First-grade](https://github.com/RichardYusteDAW/first_grade)
 - 💻 [Second-grade](https://github.com/RichardYusteDAW/second_grade)
+- 🌐 [ASIR](https://github.com/RichardYusteDAW/asir)
+- 🏢 [Sopra](https://github.com/RichardYusteDAW/sopra)
 
 ![code](code.png)
